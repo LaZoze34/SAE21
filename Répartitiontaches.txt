@@ -1,0 +1,6 @@
+Pour la partie packet tracer virtuel : Lucas DELOURS et Yasir AHKROUF 
+Création du fichier HTML pour le serveur WEB : COSENTINO Enzo
+
+
+Une fois le fichier HTML fait, Enzo => Aider pour la partie virtuel et manipulation réelle firewall. 
+répartition de tache
