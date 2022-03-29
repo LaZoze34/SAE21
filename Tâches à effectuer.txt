@@ -1,10 +1,10 @@
 - Nom de l'entreprise = ANT industries 
 
 
--Adressage IP
+-Plan d'adressage IP
 
 
--WEB (apache2):
+- Serveur WEB (apache2):
 	-PC pour apache2
 	-une simple page html
 	
@@ -12,25 +12,25 @@
 
 
 
--serveur DNS:
+-Serveur DNS:
 	-Rechercher DNS
 
 
 
--Routeur firewall:
+-Routeur Firewall:
 	-Mikrotik
 	-Stormshield ?
 
 
 
 
--switch
+- Switch
 
 
 
 -GNS (partie virtuel) + un dhcp:
 	- ? PacketTracer
-		-Mini réseau
-		-PC en serveur DHCP
-		-PC en serveur web
-		-Configuration des Vlans (3 Vlans: commerciaux, administratifs et SI)
+		- Mini réseau
+		- PC en serveur DHCP
+		- PC en serveur web
+		- Configuration des Vlans (3 Vlans: commerciaux, administratifs et SI)
