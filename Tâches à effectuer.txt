@@ -28,8 +28,7 @@
 
 
 
--GNS (partie virtuel) + un dhcp:
-	- ? PacketTracer
+-PacketTracer (partie virtuel) + un dhcp:
 		- Mini réseau
 		- PC en serveur DHCP
 		- PC en serveur web
