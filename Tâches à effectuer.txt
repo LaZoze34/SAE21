@@ -1,0 +1,36 @@
+- Nom de l'entreprise = ANT industries 
+
+
+-Adressage IP
+
+
+-WEB (apache2):
+	-PC pour apache2
+	-une simple page html
+	
+
+
+
+
+-serveur DNS:
+	-Rechercher DNS
+
+
+
+-Routeur firewall:
+	-Mikrotik
+	-Stormshield ?
+
+
+
+
+-switch
+
+
+
+-GNS (partie virtuel) + un dhcp:
+	- ? PacketTracer
+		-Mini réseau
+		-PC en serveur DHCP
+		-PC en serveur web
+		-Configuration des Vlans (3 Vlans: commerciaux, administratifs et SI)
